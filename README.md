@@ -18,7 +18,7 @@ Ce script Java utilise Selenium pour automatiser le processus de connexion à un
 2. Le navigateur Chrome s'ouvrira, se connectera au site Web, puis se fermera après la vérification de la connexion.
 
 ## Tutoriel vidéo
-Le tutoriel vidéo est disponible sur notre chaîne Youtube et accessible via ce [lien]()
+Le tutoriel vidéo est disponible sur notre chaîne Youtube et accessible via ce [lien](https://youtu.be/NfWn7F_uT0A)
 
 ## Personnalisation
 
